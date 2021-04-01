@@ -18,7 +18,7 @@ Run tests:
 ```
 
 
-Api documentation is located on http://localhost/docs
+API documentation is located on http://localhost/docs
 
 
 ### Architecture

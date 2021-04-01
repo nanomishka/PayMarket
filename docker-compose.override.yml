@@ -11,6 +11,4 @@ services:
     build:
       context: ./backend
       dockerfile: backend.dockerfile
-      args:
-        INSTALL_DEV: ${INSTALL_DEV-true}
     command: /start-reload.sh
